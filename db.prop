@@ -1,0 +1,4 @@
+jdbc.password=Gabriel&Beatriz
+jdbc.username=dbi333996
+jdbc.url=jdbc:jdbc:mysql://studmysql01.fhict.local:3306/dbi333996
+jdbc.drivers=com.mysql.jdbc.Driver
