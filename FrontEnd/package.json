@@ -12,7 +12,7 @@
     "react-navigation": "^4.0.10",
     "react-on-images-loaded": "^2.2.3",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "react-stomp": "^4.2.0",
     "reactjs-popup": "latest",
     "sockjs-client": "latest"
